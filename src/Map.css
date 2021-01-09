@@ -1,0 +1,13 @@
+.map-container {
+  padding: 50px 20px;
+}
+
+path {
+  stroke: rgb(91, 91, 91);
+  fill:rgb(236,236,236);  
+  cursor: pointer;
+}
+
+path:hover {
+  fill: rgb(130, 130, 130);
+}
